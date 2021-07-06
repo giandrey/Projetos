@@ -1,4 +1,4 @@
 # Projetos
 <br>
 
-<text>Olá Mundo!</text>
+<center><text>Olá Mundo!</text></center>
